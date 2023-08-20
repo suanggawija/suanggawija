@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **Gilang Ramadhan**.\
+Perkenalkan nama saya **Suangga Wijanatha**.\

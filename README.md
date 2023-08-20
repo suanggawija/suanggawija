@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **Suangga Wijanatha**.\
+Perkenalkan nama saya **Suangga Wijanatha**

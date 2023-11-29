@@ -1,6 +1,3 @@
-### Hi there 👋
+# Hi there 👋
+| <img src="/IMG_9944.jpg" alt="Gambar 1" width="100"/> | Perkenalkan nama saya **Suangga Wijanatha**
 
-Perkenalkan nama saya **Suangga Wijanatha**
-IMG_9944.jpg
-
-<img src="/IMG_9944.jpg" alt="Gambar 1" width="100"/>

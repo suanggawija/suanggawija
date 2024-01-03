@@ -1,4 +1,4 @@
-# Hi there I'm I Putu Gede Suangga Wijanatha👋
+# Hello there I'm I Putu Gede Suangga Wijanatha👋
 
 Hello there! 👋 I am a passionate Informatics Engineering student with a focus on machine learning. Currently, I am enrolled in the MBKM program, specifically the Independent Study at Bangkit Academy Batch 2 (2023).
 

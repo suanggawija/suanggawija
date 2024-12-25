@@ -6,6 +6,6 @@ I also thoroughly enjoy exploring the latest technological developments, particu
 
 ### Let's connect!
 <p>
-    <a href="https://www.linkedin.com/in/suangga-wijanatha" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/suangga-wijanatha" target="blank"><img src="https://img.shields.io/badge/Suangga Wijanatha-30302f?style=flat&logo=linkedin" /></a>
 </p>
 

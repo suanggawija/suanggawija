@@ -21,7 +21,7 @@ I also thoroughly enjoy exploring the latest technological developments, particu
 </p>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=suanggawija&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" height=180 />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suanggawija&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=suanggawija&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" height=120/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suanggawija&layout=compact" height=120 />
 </p>
 

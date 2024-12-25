@@ -4,6 +4,11 @@ Hello there! 👋 I am a passionate Informatics Engineering student with a focus
 
 I also thoroughly enjoy exploring the latest technological developments, particularly in programming. I firmly believe that continuous learning is the key to staying relevant in the rapidly evolving world of technology.
 
+### Tools:
+<p>
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+</p>
+
 ### Let's connect!
 <p>
     <a href="https://suanggawijanatha.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Website-suanggawijanatha.vercel.app-blue?" /></a>

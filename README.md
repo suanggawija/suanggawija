@@ -7,10 +7,19 @@ I also thoroughly enjoy exploring the latest technological developments, particu
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/React JS-blue?&logo=react" />
-    <img src="https://img.shields.io/badge/Laravel-red?&logo=laravel&logoColor=black" />
+    <img src="https://img.shields.io/badge/Laravel-red?&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind CSS-blue?&logo=tailwindcss" />
+    <img src="https://img.shields.io/badge/Bootstrap-purple?&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-white?&logo=tensorflow" />
     <img src="https://img.shields.io/badge/Github-gray?&logo=github" />
-    
+    <img src="https://img.shields.io/badge/Git-red?&logo=git&logoColor=white" />
+</p>
+
+### Language:
+<p>
+    <img src="https://img.shields.io/badge/Java Script-gray?&logo=javascript" />
+    <img src="https://img.shields.io/badge/PHP-gray?&logo=php&" />
+    <img src="https://img.shields.io/badge/Python-gray?&logo=python&" />
 </p>
 
 ### Let's connect!

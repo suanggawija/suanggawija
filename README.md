@@ -6,7 +6,7 @@ I also thoroughly enjoy exploring the latest technological developments, particu
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/badge-ReactJS-blue?&logo=react" />
+    <img src="https://img.shields.io/badge/Ract-ReactJS-blue?&logo=react" />
     <img src="https://img.shields.io/badge/Laravel-red?&logo=laravel" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>

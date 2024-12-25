@@ -7,7 +7,8 @@ I also thoroughly enjoy exploring the latest technological developments, particu
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/React JS-blue?&logo=react" />
-    <img src="https://img.shields.io/badge/Laravel-black?&logo=laravel" />
+    <img src="https://img.shields.io/badge/Laravel-white?&logo=laravel" />
+    <img src="https://img.shields.io/badge/TensorFlow-white?&logo=tensorflow" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 

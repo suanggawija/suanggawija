@@ -6,6 +6,7 @@ I also thoroughly enjoy exploring the latest technological developments, particu
 
 ### Let's connect!
 <p>
+    <a href="https://suanggawijanatha.vercel.app/" target="blank"><img src="https://img.shields.io/badge/Website-https://suanggawijanatha.vercel.app-green?" /></a>
     <a href="https://github.com/suanggawija" target="blank"><img src="https://img.shields.io/badge/Suangga Wijanatha-30302f?style=flat&logo=github" /></a>
     <a href="https://www.linkedin.com/in/suangga-wijanatha" target="blank"><img src="https://img.shields.io/badge/Suangga Wijanatha-30302f?style=flat&logo=linkedin" /></a>
 </p>

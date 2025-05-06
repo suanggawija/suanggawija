@@ -1,8 +1,9 @@
-# Hello there I'm I Putu Gede Suangga Wijanatha👋
+# Suangga Wijanatha
 
-Hello there! 👋 I am a passionate Informatics Engineering student with a focus on web developer and machine learning developer. 
+Hai 👋, perkenalkan nama saya I Putu Gede Suangga Wijanatha saya seorang Web Developer dan Machine Learning Eantushiast
 
-I also thoroughly enjoy exploring the latest technological developments, particularly in programming. I firmly believe that continuous learning is the key to staying relevant in the rapidly evolving world of technology.
+### About Me
+Lulusan informatika yang memiliki minat tinggi dalam bidang Web Developer dan Machine Learning, nama saya I Putu Gede Suangga Wijanatha. S1 Lulusan Institut Bisnis dan Teknologi Indonesia program studi Informatika. Mampu mengembangkan aplikasi berbasisi website baik pada bidang Fronted dan Backend Developer. Memiliki kemampuan juga dalam pengembangan model Machine Learning berbasis pengelolaan citra dan analisis data. Terbiasa bekerja dalam tim, disiplin, dan siap belajar teknologi baru.
 
 ### Tools:
 <p>
